@@ -1,2 +1,2 @@
-# Wallet-wise
-for Craft werse HAckathon
+# FOR LOOP SIMULATOR
+Build using streamlit  ('a python external library')
